@@ -1,0 +1,142 @@
+{
+    "casa": {
+        "Pagar IMI": {
+            "valor": -60,
+            "despesa": "Pagar IMI -60€",
+            "mensagem": "Fechar\n\nChegou a hora de pagar\n o IMI da tua casa, -60€\n "
+        },
+        "Tiveste uma fuga de água": {
+            "valor": -100,
+            "despesa": "Fuga de água -100€",
+            "mensagem": "Fechar\n\nTiveste uma fuga de água\n em casa e chamaste um\n canalizador, -100€\n "
+        }
+    },
+    "apartemento": {
+        "Pagar Condomínio": {
+            "valor": -90,
+            "despesa": "Pagar Condomínio -90€",
+            "mensagem": "Fechar\n\nChegou a hora de\n pagar o condomínio do\n teu apartamento, -90€\n "
+        },
+        "Tiveste uma fuga de água": {
+            "valor": -100,
+            "despesa": "Fuga de água -100€",
+            "mensagem": "Fechar\n\nTiveste uma fuga\n de água em casa e\n chamaste um canalizador,\n -100€\n "
+        }
+    },
+    "mansao": {
+        "Pagar ao Jardineiro": {
+            "valor": -150,
+            "despesa": "Pagar ao Jardineiro -150€",
+            "mensagem": "Fechar\n\nChegou a hora de\n pagar ao jardineiro\n da tua mansão, -150€\n "
+        },
+        "Pagar IMI": {
+            "valor": -50,
+            "despesa": "Pagar IMI -50€",
+            "mensagem": "Fechar\n\nChegou a hora de\n pagar o IMI da tua\n casa, -50€\n "
+        },
+        "Manutenção da Piscina": {
+            "valor": -200,
+            "despesa": "Manutenção da Piscina -200€",
+            "mensagem": "Fechar\n\nDecidiste fazer a\n manutenção da piscina\n da tua mansão, -200€\n "
+        }
+    },
+    "carro": {
+        "Pagar IUC": {
+            "valor": -55,
+            "despesa": "Pagar IUC -55€",
+            "mensagem": "Fechar\n\nEstá na altura de pagar\n o IUC (Imposto Único\n de Circulação) do teu\n carro, -55€\n "
+        },
+        "Pagar o Seguro do Carro": {
+            "valor": -100,
+            "despesa": "Pagar o Seguro do Carro -100€",
+            "mensagem": "Fechar\n\nChegou a hora de\n pagar o seguro do\n carro, -100€\n "
+        },
+        "A Bateria do carro foi à vida": {
+            "valor": -100,
+            "despesa": "Bateria Nova -100€",
+            "mensagem": "Fechar\n\nA bateria do carro\n foi à vida, -100€\n"
+        },
+        "Pagar as scuts": {
+            "valor": -10,
+            "despesa": "Pagar as scuts -10€",
+            "mensagem": "Fechar\n\nPassaste pela A33\n e tens de pagar\n as scuts, -10€\n "
+        }
+    },
+    "autocarro": {
+        "Perdeste o autocarro": {
+            "valor": -10,
+            "despesa": "Uber -10€",
+            "mensagem": "Fechar\n\nPerdeste o autocarro\n e tiveste de apanhar\n um Uber, -10€\n "
+        },
+        "O autocarro avariou": {
+            "valor": -10,
+            "despesa": "Pagar Uber -10€",
+            "mensagem": "Fechar\n\nO autocarro avariou\n e tiveste de apanhar\n um Uber, -10€\n "
+        }
+    },
+    "bicicleta": {
+        "Roubo da bicicleta": {
+            "valor": -150,
+            "despesa": "Bicicleta Nova -150€",
+            "mensagem": "Fechar\n\nRoubaram-te a bicicleta,\n -150€\n "
+        },
+        "Pneu Furado": {
+            "valor": -30,
+            "despesa": "Pneu Novo -30€",
+            "mensagem": "Fechar\n\nTiveste um pneu\n furado, -30€\n "
+        }
+    },
+    "construtor": {
+        "Tiveste um acidente de trabalho": {
+            "valor": 250,
+            "despesa": "Bónus de Trabalho +250€",
+            "mensagem": "Fechar\n\nTiveste um acidente de\n trabalho e recebeste\n uma indemnização, +250€\n "
+        },
+        "Jantar de Trabalho": {
+            "valor": -30,
+            "despesa": "Jantar de Trabalho -30€",
+            "mensagem": "Fechar\n\nFoste jantar com os\n teus colegas de trabalho,\n -30€\n "
+        }
+    },
+    "professor": {
+        "Bonus de Trabalho": {
+            "valor": 350,
+            "despesa": "Bónus de Trabalho +350€",
+            "mensagem": "Fechar\n\nFoste a professor/a com \nmelhores resultados do\n ano, +350€\n "
+        },
+        "Jantar de Trabalho": {
+            "valor": -30,
+            "despesa": "Jantar de Trabalho -30€",
+            "mensagem": "Fechar\n\nFoste jantar com os\n teus colegas de trabalho,\n -30€\n "
+        }
+    },
+    "advogado": {
+        "Bonus de Trabalho": {
+            "valor": 400,
+            "despesa": "Bónus de Trabalho +400€",
+            "mensagem": "Fechar\n\nGanhaste um caso importante\n e recebeste um bónus,\n +400€\n "
+        },
+        "Jantar de Trabalho": {
+            "valor": -30,
+            "despesa": "Jantar de Trabalho -30€",
+            "mensagem": "Fechar\n\nFoste jantar com os\n teus colegas de trabalho,\n -30€\n "
+        }
+    },
+    "geral": {
+        "Faltou ao Trabalho": {
+            "valor": -30,
+            "despesa": "Faltou ao Trabalho -30€",
+            "mensagem": "Fechar\n\nFicaste doente e\n precisaste de faltar\n ao trabalho, -30€\n "
+        },
+        "Old Friend": {
+            "valor": -50,
+            "despesa": "Almoço c/Amigo -50€",
+            "mensagem": "Fechar\n\nNa pausa do almoço,\n encontraste um amigo que\n já não vias há muito tempo\n e foram almoçar, -50€\n "
+        },
+        "Perdeste a carteira": {
+            "valor": -100,
+            "despesa": "Perdeste a carteira -100€",
+            "mensagem": "Fechar\n\nChegaste a casa e\n apercebeste-te que perdeste a\n carteira, com todos os teus\n documentos, -100€\n "
+        }
+    }
+}
